@@ -1,1 +1,1 @@
-# iNeuron.ai-DeepLearning-Assignments
+# iNeuron.ai-DeepLearningTheory-Assignments
